@@ -1,0 +1,26 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-size: 20px;
+}
+.container{
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+#addtask{
+    color: aqua;
+    padding: 20px;
+    margin: 20px;
+}
+#taskinput{
+    color: brown;
+    padding: 18px;
+    margin: 20px;
+
+}
+#tasklist{
+    color: goldenrod;
+    padding: 18px;
+    margin: 20px;
+
+}
